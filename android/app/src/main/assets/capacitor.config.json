@@ -3,10 +3,10 @@
 	"appName": "capacitor-course",
 	"webDir": "www",
 	"bundledWebRuntime": false,
-  "plugins": {
-    "SplashScreen": {
-      "launchDuration": 0
-    }
-  },
-  "cordova": {}
+	"plugins": {
+		"SplashScreen": {
+			"launchDuration": 0
+		}
+	},
+	"cordova": {}
 }
